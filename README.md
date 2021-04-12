@@ -48,6 +48,7 @@ Inspired by a hilarious post I read on [scalable, resilient brainfuck](https://z
  - https://modexp.wordpress.com/2018/10/30/arm64-assembly/
  - https://en.wikipedia.org/wiki/Brainfuck (duh)
  - https://github.com/below/HelloSilicon
+ - https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md#arm-32_bit_EABI
  
  ## License
  [Creative Commons Zero](https://creativecommons.org/share-your-work/public-domain/cc0/), 
